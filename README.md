@@ -1,5 +1,8 @@
 # VOIS-INTERNSHIP
-VI-VOIS INTERNSHIP AUGUST - SEPTEMBER 2026 AICTE 
+VI-VOIS INTERNSHIP AUGUST - SEPTEMBER 2026 AICTE BATCH 1
+
+AARYA RAMCHANDRA TARPHE - STU66595b86dc18b1717132166
+
 # Seasonal Agriculture Performance Analysis
 
 ## 📌 Project Overview
@@ -186,9 +189,7 @@ This project provides a data-driven analysis of seasonal agricultural performanc
 
 The final recommendations are based on the observations obtained from the dataset and are provided in the project notebook.
 
-## 👨‍💻 Project Type
 
-**Major Project – VOIS AICTE Batch 1 (2026–2027)**
 
 **Topic:** Seasonal Agriculture Performance Analysis
 
